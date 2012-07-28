@@ -1,0 +1,3 @@
+[submodule "sdk/flex"]
+	path = sdk/flex
+	url = https://github.com/psyrendust/flex_sdk.git
