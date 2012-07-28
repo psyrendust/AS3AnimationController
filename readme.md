@@ -7,3 +7,4 @@ Labeled key frames may be placed in the timeline of the decorated object to deno
 # Release Notes
 ### 1.0 (7/27/2012):
 * Initial commit
+* Updated example fla to point to AS3AnimationController.swc
